@@ -4,13 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.app.Activity;
-import android.content.Context;
 import android.graphics.Color;
 import android.graphics.Point;
-import android.hardware.Sensor;
-import android.hardware.SensorEvent;
-import android.hardware.SensorEventListener;
-import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.view.GestureDetector;
 import android.view.MotionEvent;

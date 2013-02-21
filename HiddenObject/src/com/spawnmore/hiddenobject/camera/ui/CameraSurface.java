@@ -15,6 +15,7 @@ public class CameraSurface extends SurfaceView implements SurfaceHolder.Callback
     private SurfaceHolder mHolder;
     private Camera mCamera;
     
+    @SuppressWarnings("deprecation")
     public CameraSurface(Context context, Camera camera) {
         super(context);
         

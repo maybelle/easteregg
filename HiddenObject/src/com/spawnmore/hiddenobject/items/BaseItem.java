@@ -3,8 +3,6 @@ package com.spawnmore.hiddenobject.items;
 import android.graphics.Canvas;
 import android.graphics.Point;
 import android.graphics.Rect;
-import android.view.GestureDetector;
-import android.view.MotionEvent;
 
 public abstract class BaseItem
 {	
